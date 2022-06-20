@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olatunji2022 or you could just call me Ola
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning software engineering (basics)
-- 💞️ I’m not looking to collaborate, at least not yet, except you're feeling philanthropic and ready to share your wealth of knowledge on my interests.
+- 💞️ I’m not looking to collaborate, at least not yet, except you're feeling philanthropic and ready to share your wealth of knowledge on my interests, you're very much welcome.
 - 📫 How to reach me, on mail -shondeolatunji@yahoo.com
 
 <!---
